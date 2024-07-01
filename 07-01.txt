@@ -1,0 +1,12 @@
+Quaternion 쿼터니언: 유니티에서 회전을 나타내는 타입
+
+  transform.position = new Vector3(0, 10f, 0);
+  transform.rotation = new Quaternion(0f, 2f, 0f,0f);
+                                      // 4차원 복소수
+분명하게 유니티 인스펙트 트랜스폼 컴퍼넌트
+rotation을 Veter3 로 x,y,z를 받는다.
+사실 이것은 Quatinon 타입이 비직관적이라
+유니티 인스펙터창에서 rotation 값을 Vetor3로 
+다루도록 유니티를 만든 개발자들이 배려를 한것
+Quaternion.Slerp(thisZombie.rotation, rot, Time.deltaTime * 3.0f);
+= 곡면 보관회전함수

@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\bin\Debug\net8.0\07-01CSharp.exe
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\bin\Debug\net8.0\07-01CSharp.deps.json
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\bin\Debug\net8.0\07-01CSharp.runtimeconfig.json
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\bin\Debug\net8.0\07-01CSharp.dll
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\bin\Debug\net8.0\07-01CSharp.pdb
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.dll
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\refint\07-01CSharp.dll
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.pdb
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\07-01CSharp.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\C#\07-01\07-01CSharp\07-01CSharp\obj\Debug\net8.0\ref\07-01CSharp.dll
